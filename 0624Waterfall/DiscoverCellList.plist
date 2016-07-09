@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<array>
+		<dict>
+			<key>cellImageView</key>
+			<string>ic_find_wiki_20x20_</string>
+			<key>cellTextLabel</key>
+			<string>Wiki</string>
+			<key>cellDetailLabel</key>
+			<string></string>
+			<key>accessoryImageView</key>
+			<string></string>
+		</dict>
+	</array>
+	<array>
+		<dict>
+			<key>cellImageView</key>
+			<string>ic_find_course_20x20_</string>
+			<key>cellTextLabel</key>
+			<string>课程库</string>
+			<key>cellDetailLabel</key>
+			<string></string>
+			<key>accessoryImageView</key>
+			<string></string>
+		</dict>
+	</array>
+	<array>
+		<dict>
+			<key>cellImageView</key>
+			<string>ic_find_more_20x20_</string>
+			<key>cellTextLabel</key>
+			<string>更多</string>
+			<key>cellDetailLabel</key>
+			<string></string>
+			<key>accessoryImageView</key>
+			<string></string>
+		</dict>
+	</array>
+</array>
+</plist>

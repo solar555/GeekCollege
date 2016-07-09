@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<array>
+		<dict>
+			<key>cellImageView</key>
+			<string>buyali_20x20_</string>
+			<key>cellTextLabel</key>
+			<string>支付宝</string>
+			<key>cellDetailLabel</key>
+			<string></string>
+			<key>accessoryImageView</key>
+			<string>buynosel_16x16_</string>
+		</dict>
+		<dict>
+			<key>cellImageView</key>
+			<string>buywx_20x20_</string>
+			<key>cellTextLabel</key>
+			<string>微信</string>
+			<key>cellDetailLabel</key>
+			<string></string>
+			<key>accessoryImageView</key>
+			<string>buynosel_16x16_</string>
+		</dict>
+	</array>
+</array>
+</plist>
